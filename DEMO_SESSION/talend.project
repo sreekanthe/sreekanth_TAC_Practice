@@ -7,6 +7,48 @@
     <documentationStatus xmi:id="_JklycJUKEemuQ-bpBa_xCg" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_JklycZUKEemuQ-bpBa_xCg" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_JklycpUKEemuQ-bpBa_xCg" label="validated" code="VAL"/>
+    <statAndLogsSettings xmi:id="_-yqpIJm4Eem_Qr6vN6JwRQ">
+      <parameters xmi:id="_-yqpIZm4Eem_Qr6vN6JwRQ">
+        <elementParameter xmi:id="_NbG5MJm5Eem_Qr6vN6JwRQ" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5MZm5Eem_Qr6vN6JwRQ" field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Mpm5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_STATCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5M5m5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_LOGCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5NJm5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_METERCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5NZm5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_CONSOLE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Npm5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_FILES_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5N5m5Eem_Qr6vN6JwRQ" field="DIRECTORY" name="FILE_PATH" value="&quot;G:/cmdline/studio/workspace/.metadata&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5OJm5Eem_Qr6vN6JwRQ" field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5OZm5Eem_Qr6vN6JwRQ" field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Opm5Eem_Qr6vN6JwRQ" field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5O5m5Eem_Qr6vN6JwRQ" field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5PJm5Eem_Qr6vN6JwRQ" field="CHECK" name="ON_DATABASE_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5PZm5Eem_Qr6vN6JwRQ" field="PROPERTY_TYPE" name="PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Ppm5Eem_Qr6vN6JwRQ" field="CLOSED_LIST" name="DB_TYPE" value="tMysqlOutput" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5P5m5Eem_Qr6vN6JwRQ" field="CLOSED_LIST" name="DB_VERSION" value="MYSQL_5" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5QJm5Eem_Qr6vN6JwRQ" field="TEXT" name="URL" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5QZm5Eem_Qr6vN6JwRQ" field="TABLE" name="DRIVER_JAR" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Qpm5Eem_Qr6vN6JwRQ" field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbG5Q5m5Eem_Qr6vN6JwRQ" field="TEXT" name="HOST" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgQJm5Eem_Qr6vN6JwRQ" field="TEXT" name="PORT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgQZm5Eem_Qr6vN6JwRQ" field="TEXT" name="DBNAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgQpm5Eem_Qr6vN6JwRQ" field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgQ5m5Eem_Qr6vN6JwRQ" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgRJm5Eem_Qr6vN6JwRQ" field="TEXT" name="SCHEMA_DB" value="" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgRZm5Eem_Qr6vN6JwRQ" field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgRpm5Eem_Qr6vN6JwRQ" field="PASSWORD" name="PASS" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgR5m5Eem_Qr6vN6JwRQ" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgSJm5Eem_Qr6vN6JwRQ" field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgSZm5Eem_Qr6vN6JwRQ" field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgSpm5Eem_Qr6vN6JwRQ" field="DBTABLE" name="TABLE_METER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgS5m5Eem_Qr6vN6JwRQ" field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgTJm5Eem_Qr6vN6JwRQ" field="CHECK" name="CATCH_USER_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgTZm5Eem_Qr6vN6JwRQ" field="CHECK" name="CATCH_USER_WARNING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgTpm5Eem_Qr6vN6JwRQ" field="CHECK" name="CATCH_REALTIME_STATS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgT5m5Eem_Qr6vN6JwRQ" field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgUJm5Eem_Qr6vN6JwRQ" field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="BUILT_IN" contextMode="false"/>
+        <elementParameter xmi:id="_NbHgUZm5Eem_Qr6vN6JwRQ" field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </statAndLogsSettings>
     <migrationTask xmi:id="_JemfMJUKEemuQ-bpBa_xCg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_JemfMZUKEemuQ-bpBa_xCg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_JemfMpUKEemuQ-bpBa_xCg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
